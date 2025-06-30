@@ -1,1 +1,1 @@
-# open_gist
+# Open GIST Science Lab
